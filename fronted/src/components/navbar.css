@@ -1,0 +1,24 @@
+.container{
+  color: red;background-color:aliceblue ; height:90px;display:flex;border-color: rgb(255, 153, 0);
+  padding-top: 20px;
+
+}
+.d-flex{
+   
+    padding-top: 20px;
+}
+.brand{
+    margin-Left:"60px";margin-Top:"20px";width:"860px"
+}
+.homlink{
+    color: red;
+   margin: 15px ;
+}
+.reglink{
+    color: red;
+    margin: 15px;
+}
+.loglink{
+    color:red;
+    margin: 15px;
+}
